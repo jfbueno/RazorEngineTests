@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorEngineTests", "RazorEngineTests\RazorEngineTests.csproj", "{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C1F599D-3093-4EC2-96CF-34F6CF6951CD}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Debug|x64.Build.0 = Debug|Any CPU
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Debug|x86.Build.0 = Debug|Any CPU
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Release|x64.ActiveCfg = Release|Any CPU
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Release|x64.Build.0 = Release|Any CPU
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Release|x86.ActiveCfg = Release|Any CPU
+		{3CC85F88-1688-4F9B-A554-CB6A9697B0EE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
